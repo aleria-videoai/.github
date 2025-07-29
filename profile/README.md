@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aleria-videoai/.github/refs/heads/main/profile/logo.svg" alt="VideoAI by Aleria" width="180" />
+  <img src="https://raw.githubusercontent.com/aleria-videoai/.github/refs/heads/main/profile/logo.png" alt="VideoAI by Aleria" width="180" />
 </p>
 
 <h1 align="center">Aleria Technology — VideoAI</h1>
